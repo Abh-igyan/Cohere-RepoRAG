@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/PLACEHOLDER_IMAGE_URL" alt="Cohere RepoRAG Banner" width="800"/>
-  
+<div align="center">  
   <h1>Cohere RepoRAG</h1>
   <p><strong>A fast, lightweight CLI tool that semantic-searches local codebases with precise citation grounding using Cohere Command-R+.</strong></p>
   
@@ -8,6 +6,8 @@
   [![Cohere API](https://img.shields.io/badge/Powered_by-Cohere-5e50ee.svg)](https://cohere.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </div>
+<img width="1229" height="492" alt="image" src="https://github.com/user-attachments/assets/42e8c09f-8fa7-4528-8234-55bfd0ef4807" />
+
 
 ---
 
